@@ -27,6 +27,3 @@ I use a student dataset for practice, including columns such as student name, cl
 The purpose of this repository is to strengthen my Python data analysis skills through hands-on practice and to document my learning journey.
 ## Author
 Ayza Khan
-Author
-## Author
-Ayza Khan
